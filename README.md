@@ -1,12 +1,12 @@
 # Azure Interview Questions & Answers
 
-A GitHub-ready study repository containing standard Azure interview questions and scenario-based questions transcribed and organized from the supplied 25-page MicroDegree PDF.
+A GitHub-ready study repository containing standard Azure interview questions and scenario-based questions, transcribed and organized from the supplied 25-page MicroDegree PDF.
 
-## Repository contents
+## Repository Contents
 
-- `docs/AZURE_INTERVIEW_QA.md` — all standard and scenario-based questions and answers from the source PDF.
+- `docs/AZURE_INTERVIEW_QA.md` — All standard and scenario-based questions and answers from the source PDF.
 
-## Topics covered
+## Topics Covered
 
 - Cloud computing and service models (IaaS, PaaS, SaaS)
 - Azure fundamentals, Marketplace, ARM, and Resource Groups
@@ -17,11 +17,19 @@ A GitHub-ready study repository containing standard Azure interview questions an
 - Web/application servers and VM provisioning
 - Practical Azure infrastructure scenarios
 
-## Want to keep building your tech skills?
+## Want to Keep Building Your Tech Skills?
 
-Explore MicroDegree e-learning, an online learning platform with technology courses you can learn at your own pace.
+Explore **MicroDegree E-Learning**, a Kannada-first online learning platform offering technology courses that you can access and complete at your own pace.
 
-Discover courses, strengthen your practical knowledge, and continue learning beyond this Azure interview guide.
+Discover courses in AWS, Azure, Cloud Computing, DevOps, Kubernetes, Generative AI and more. Strengthen your practical knowledge and continue learning beyond this Azure interview guide.
 
-Explore the e-learning platform and get started:
+- Learn advanced technologies in Kannada.
+- Access structured, self-paced online courses.
+- Build skills in in-demand technology domains.
+
+**Explore MicroDegree E-Learning:**  
 [https://www.microdegree.work/learning](https://www.microdegree.work/tech-courses)
+
+**Special Offer:** Use coupon code `TECH100` at checkout to avail the available discount.
+
+Start learning today with MicroDegree!
