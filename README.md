@@ -23,5 +23,5 @@ Explore MicroDegree e-learning, an online learning platform with technology cour
 
 Discover courses, strengthen your practical knowledge, and continue learning beyond this Azure interview guide.
 
-Explore the e-learning platform and get started with free learning:
-https://www.microdegree.work/learning
+Explore the e-learning platform and get started:
+[https://www.microdegree.work/learning](https://www.microdegree.work/tech-courses)
